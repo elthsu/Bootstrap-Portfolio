@@ -10,6 +10,7 @@ header {
 	padding: 0;
 	margin: 0;
 	border-bottom: 2px solid #cccccc; 
+	z-index: 2;
 }
 
 body {
@@ -249,19 +250,6 @@ a:hover {
  	margin: 10px;
 
 }
-
-.auth-image {
-  
-  
-  width: 200px;
-  height: auto;
-  margin-top: 10px;
-  float: left;
-  margin-right: 25px;
-  color: #0C3453 ;
-}
-
-
 
 
 footer {
